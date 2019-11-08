@@ -1,13 +1,13 @@
 # Site settings
-title: Brandon Toushan
-email: brandontoushan@gmail.com
+title: Thomas Mosher
+email: tmosh5@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://brandontoushan.github.io" # the base hostname & protocol for your site
+url: "https://thomasmosher.github.io" # the base hostname & protocol for your site
 
-github_username: BrandonToushan
+github_username: tmosh5
 
-linkedin_username: brandon-toushan
+linkedin_username: thomas-mosher
 
 # Build settings
 markdown: kramdown
